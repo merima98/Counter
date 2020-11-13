@@ -12,7 +12,7 @@
 	- npm install
 	- npm start
 	
-### Packages that were installed in the project:
+### Packages that were installed in the project for redux:
 
 	- npm install --save redux
 	- npm install --save react-redux
